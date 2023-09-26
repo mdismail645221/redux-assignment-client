@@ -1,6 +1,7 @@
 const Navbar = () => {
     return (
-        <header className="flex items-center justify-between bg-black text-white">
+        <header className=" bg-black text-white ">
+            <section className={`flex items-center justify-between container mx-auto`}>
             <div className="header-left">
                 <img src="https://acedeckboards.ca/cdn/shop/files/8d8f334e7276d87a33d42ef609db5225_110x.webp?v=1679656262" alt="mian-logo" />
             </div>
@@ -14,6 +15,7 @@ const Navbar = () => {
                     <li className="list-none  border-r-2 border-gray-500"><a className="px-3 text-white" href="/">Log Out</a></li>
                 </ul>
             </div>
+            </section>
         </header>
     );
 };
