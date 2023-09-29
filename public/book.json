@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "Title": "The Catcher in the Rye",
+      "Author": "J.D. Salinger",
+      "Genre": "Fiction",
+      "Publication Date": "July 16, 1951",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/The_Catcher_In_The_Rye_%2814353822692%29.jpg/800px-The_Catcher_In_The_Rye_%2814353822692%29.jpg",
+      "userEmail": "user1@example.com"
+    },
+    {
+      "id": 2,
+      "Title": "1984",
+      "Author": "George Orwell",
+      "Genre": "Science Fiction",
+      "Publication Date": "June 8, 1949",
+      "img": "https://img.freepik.com/free-photo/futuristic-cityscape-sunset-men-flying-spaceships-generated-by-ai_188544-26033.jpg",
+      "userEmail": "user2@example.com"
+    },
+    {
+      "id": 3,
+      "Title": "To Kill a Mockingbird",
+      "Author": "Harper Lee",
+      "Genre": "Classic Fiction",
+      "Publication Date": "July 11, 1960",
+      "img": "https://img.freepik.com/free-photo/male-starling-perching-branch-feathers-generated-by-ai_188544-35551.jpg",
+      "userEmail": "user3@example.com"
+    },
+    {
+      "id": 4,
+      "Title": "The Great Gatsby",
+      "Author": "F. Scott Fitzgerald",
+      "Genre": "Classic Fiction",
+      "Publication Date": "April 10, 1925",
+      "img": "https://img.freepik.com/free-photo/medium-shot-young-man-posing-vintage-portrait_23-2150794970.jpg",
+      "userEmail": "user4@example.com"
+    },
+    {
+      "id": 5,
+      "Title": "Harry Potter and the Philosopher's Stone",
+      "Author": "J.K. Rowling",
+      "Genre": "Fantasy",
+      "Publication Date": "June 26, 1997",
+      "img": "https://img.freepik.com/premium-photo/harry-potter-concept-ai-art_922940-650.jpg",
+      "userEmail": "user5@example.com"
+    },
+    {
+      "id": 6,
+      "Title": "Pride and Prejudice",
+      "Author": "Jane Austen",
+      "Genre": "Classic Fiction",
+      "Publication Date": "January 28, 1813",
+      "img": "https://img.freepik.com/free-photo/painting-man-with-rainbow-hat-his-head_1340-42385.jpg",
+      "userEmail": "user6@example.com"
+    },
+    {
+      "id": 7,
+      "Title": "The Lord of the Rings: The Fellowship of the Ring",
+      "Author": "J.R.R. Tolkien",
+      "Genre": "Fantasy",
+      "Publication Date": "July 29, 1954",
+      "img": "https://img.freepik.com/free-photo/golden-object-with-clock-top-it_1340-28982.jpg",
+      "userEmail": "user7@example.com"
+    },
+    {
+      "id": 8,
+      "Title": "The Hobbit",
+      "Author": "J.R.R. Tolkien",
+      "Genre": "Fantasy",
+      "Publication Date": "September 21, 1937",
+      "img": "https://img.freepik.com/premium-photo/concept-art-illustration-hobbit-fantasy-adventure-ai-generative_572887-2648.jpg",
+      "userEmail": "user8@example.com"
+    },
+    {
+      "id": 9,
+      "Title": "Brave New World",
+      "Author": "Aldous Huxley",
+      "Genre": "Science Fiction",
+      "Publication Date": "February 17, 1932",
+      "img": "https://img.freepik.com/free-photo/man-stands-cliff-looking-giant-planet_1340-43221.jpg",
+      "userEmail": "user9@example.com"
+    },
+    {
+      "id": 10,
+      "Title": "The Da Vinci Code",
+      "Author": "Dan Brown",
+      "Genre": "Mystery",
+      "Publication Date": "March 18, 2003",
+      "img": "https://img.freepik.com/free-photo/rendering-wizard-controlling-magic_23-2150608347.jpg",
+      "userEmail": "user10@example.com"
+    },
+    {
+      "id": 12,
+      "Title": "The Hunger Games",
+      "Author": "Suzanne Collins",
+      "Genre": "Science Fiction",
+      "Publication Date": "September 14, 2008",
+      "img": "https://img.freepik.com/free-photo/rendering-wizard-controlling-magic_23-2150608344.jpg",
+      "userEmail": "user11@example.com"
+    }
+  ]
+  

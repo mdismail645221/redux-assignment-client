@@ -1,7 +1,9 @@
+import AllBooksPage from "../../components/shared/AllBooks";
+
 const Home = () => {
     return (
-        <div>
-            This is a Home page 
+        <div className="text-black">
+            <AllBooksPage/>
         </div>
     );
 };

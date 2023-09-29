@@ -9,7 +9,7 @@ const MainLayout = () => {
             {/*Top Navbar */}
             <Navbar/>
             {/* Dynamic Page  */}
-            <div className='h-[60vh]'>
+            <div>
             <Outlet/>
             </div>
             {/* Footer */}
